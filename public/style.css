@@ -1,0 +1,19 @@
+.wrap {
+    text-align : center ;
+    margin-top : 220px ;
+    color : white ;
+}
+
+.pagination {
+    margin-left : 39% ;
+}
+
+.form {
+    width : 100% ;
+    max-width : 700px ;
+    margin: 40px auto ;
+}
+
+.pagi {
+    margin-left : 60% ;
+}
